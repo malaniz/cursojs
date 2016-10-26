@@ -1,0 +1,22 @@
+{
+  "numero" : 1234,
+  "fecha" : "10/10/2020",
+  "cliente" : {
+    "nombre": "Coca Cola",
+    "direccion" : "adlskfjladsf",
+    "telefono" : "12312312"
+  },
+  "detalle" : [
+    {
+      "nombre": "mate",
+      "cantidad" : 5,
+      "precio" : 10
+    },
+    {
+      "nombre": "bombilla",
+      "cantidad" : 2,
+      "precio" : 8
+    }
+  ]
+
+}
